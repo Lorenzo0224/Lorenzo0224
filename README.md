@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Lorenzo0224, a phd candidate at HIT.
-- 👀 I’m interested in data preparation for ML, Data Analysis and SQL Query.
-- 🌱 I’m currently learning to build a demonstration version of data integration pipeline, hopefully with interesting features. 
+- 👀 I’m interested in data preparation for ML & Data Analysis.
+- 🌱 I’m currently learning to build a data integration pipeline demonstration, hopefully with interesting features. 
 - 💞️ I’m also interested in magic, so maybe I can show you a little magic trick if you meet me in person:)
